@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hi, I'm Bruna! 😊 </h1>
   <p>‣ 📝 Estudante de Desenvolvimento Web FullStack na <a href="https://soulcodeacademy.org/">SoulCode Academy!</a> </p>
-  <p>‣ 🇧🇷, 26 anos, casada - Joinville-SC. </p>
+  <p>‣ Brasileira, 26 anos, casada - Joinville-SC. </p>
   <p>‣ <a href="https://www.linkedin.com/in/bruna-gattei-micheletti-06a00011a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </p>
 </div>
 
