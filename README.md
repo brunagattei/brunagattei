@@ -15,6 +15,7 @@
   ![TypeScrip](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&&logo=angular&logoColor=white)
+  
   ![JQuery](https://img.shields.io/badge/-JQuery-3660b2?style=flat&logo=jquery)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
