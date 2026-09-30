@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Hi, I'm Bruna! 😊 </h1>
   <p>‣ 📝 Estudante de Desenvolvimento Web FullStack na <a href="https://soulcodeacademy.org/">SoulCode Academy!</a> </p>
-  <p>‣ Brasileira, 26 anos, casada - Joinville-SC. </p>
+  <p>‣ Brasileira, Joinville-SC. </p>
 </div>
 
 <a href="https://github.com/brunagattei">
